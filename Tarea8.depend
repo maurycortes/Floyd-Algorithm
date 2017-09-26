@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1458110365 source:c:\users\user\desktop\tec\cuarto semestre\algoritmos\tarea8\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<strings.h>
+	<stdlib.h>
+	<sstream>
+	<stdio.h>
+	<stdexcept>
+	<cstdlib>
+
